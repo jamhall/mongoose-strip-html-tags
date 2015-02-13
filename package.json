@@ -12,6 +12,7 @@
   },
   "keywords": [
     "mongoose",
+    "strip",
     "html",
     "string",
     "schematype",
