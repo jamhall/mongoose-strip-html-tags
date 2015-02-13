@@ -1,0 +1,30 @@
+{
+  "name": "mongoose-strip-html-tags",
+  "version": "0.0.0",
+  "description": "Strip html tags from mongoose models",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jamhall/mongoose-strip-html-tags.git"
+  },
+  "keywords": [
+    "mongoose",
+    "html",
+    "string",
+    "schematype",
+    "schema",
+    "type"
+  ],
+  "author": "Jamie Hall <hall@ill.eu> (https://github.com/jamhall)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jamhall/mongoose-strip-html-tags/issues"
+  },
+  "homepage": "https://github.com/jamhall/mongoose-strip-html-tags",
+  "dependencies": {
+    "string": "^3.0.0"
+  }
+}
