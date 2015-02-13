@@ -1,6 +1,6 @@
 {
   "name": "mongoose-strip-html-tags",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Strip html tags from mongoose models",
   "main": "index.js",
   "scripts": {
